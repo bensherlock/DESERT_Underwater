@@ -82,6 +82,7 @@ SUBDIRS = m4 \
     physical/uw-al/packer_common \
     physical/uw-al/packer_mac \
     physical/uwphy_clmsgs \
+    physical/uwnm3_phy \
     utility/msg-display \
     mobility/uwdriftposition \
     mobility/uwgmposition \
